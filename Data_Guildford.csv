@@ -1,0 +1,10 @@
+Business_Type,Business_Name,Business_SubType,Business_FullAddressAndPostCode,Business_Booking.com_URL,Business_Hotel_Star,Business_Source,Business_SourceSearch,Booking.com_DoWePriceMatch,Booking.com_Review_NumberOfReviews,Booking.com_Review_Score,Booking.com_Review_SummaryText,Booking.com_Best_Rating_Name,Booking.com_Best_Rating_Score
+Hotel,Harbour Hotel & Spa Guildford,Hotel,"3 Alexandra Terrace High Street, Guildford, GU1 3DA, United Kingdom",https://www.booking.com/Share-K3glZY,4,Booking.com,Guildford,We Price Match,"2,903",8,Very good,Robyn,10
+Hotel,The Studio,B&B,"20 Cooper Road, Guildford, GU1 3LY, United Kingdom",https://www.booking.com/hotel/gb/20-surrey.en-gb.html,3,Booking.com,Guildford,We Price Match,178,8.1,Very good,Paul,9.0
+Hotel,Addison B&B,B&B,"12 Addison Road, Guildford, GU1 3QP, United Kingdom",https://www.booking.com/Share-oVlgLdf,2,Booking.com,Guildford,We Price Match,320,9.1,Superb,Valentina,10
+Hotel,Guildford Manor Hotel & Spa,B&B,"Newlands Corner, Guildford, GU4 8SE, United Kingdom",https://www.booking.com/hotel/gb/manorhousehotel.en-gb.html,4,Booking.com,Guildford,We Price Match,"2,167",7.3,Good,Deborah,10
+Hotel,Acacia Villas Guest House,B&B,"29, Woodbridge Road, Guildford, GU1 1ED, United Kingdom",,0,Booking.com,Guildford,We Price Match,470,8,Very good,Khalid,10
+Hotel,The Percy Arms,B&B,"75 Dorking Road, Guildford, GU4 8NP, United Kingdom",https://www.booking.com/hotel/gb/the-percy-arms-chilworth.en-gb.html,4,Booking.com,Guildford,We Price Match,677,9.1,Superb,Fiona,10
+Hotel,"Holiday Inn Guildford, an IHG Hotel",B&B,"Egerton Road, Guildford, GU2 7XZ, United Kingdom",https://www.booking.com/hotel/gb/holiday-inn-guildford.en-gb.html,4,Booking.com,Guildford,We Price Match,"2,658",7.7,Good,Joey,10
+Hotel,The Angel Posting House & Livery,B&B,"91 High Street, Guildford, GU1 3DP, United Kingdom",,4,Booking.com,Guildford,We Price Match,"1,326",8,Very good,Pouliasi,10
+Hotel,Barnett Hill Hotel,B&B,"Blackheath Lane, Guildford, GU5 0RF , United Kingdom",https://www.booking.com/hotel/gb/barnett-hill.en-gb.html,4,Booking.com,Guildford,We Price Match,761,8.2,Very good,Penelope,10
